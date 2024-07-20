@@ -1,0 +1,16 @@
+*{
+    margin: 10px;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    background-color:white!important;
+
+   }
+.header p {
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    margin: 20px  40px;
+}
